@@ -22,7 +22,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>ME294LL/A</String>
+          <String>MD102LL/A</String>
           <Attributes>
             <Font Family="Arial Black" Size="18" Bold="True" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -41,7 +41,7 @@
       <Rotation>Rotation0</Rotation>
       <IsMirrored>False</IsMirrored>
       <IsVariable>False</IsVariable>
-      <Text>C02MK2VZFD59</Text>
+      <Text>C1MPN099DV30</Text>
       <Type>Code39</Type>
       <Size>Small</Size>
       <TextPosition>None</TextPosition>
@@ -70,7 +70,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>C02MK2VZFD59</String>
+          <String>C1MPN099DV30</String>
           <Attributes>
             <Font Family="Apple Symbols" Size="8" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -89,7 +89,7 @@
       <Rotation>Rotation90</Rotation>
       <IsMirrored>False</IsMirrored>
       <IsVariable>False</IsVariable>
-      <Text>LMP15-0212A</Text>
+      <Text>LMP13-0047A</Text>
       <Type>Code39</Type>
       <Size>Small</Size>
       <TextPosition>None</TextPosition>
@@ -144,7 +144,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>LMP15-0212A</String>
+          <String>LMP13-0047A</String>
           <Attributes>
             <Font Family="Impact" Size="36" Bold="True" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -170,7 +170,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>15.4" Macbook Pro Retina, Aluminum</String>
+          <String>13.3" Macbook Pro Aluminum, Aluminum</String>
           <Attributes>
             <Font Family="Apple Symbols" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -196,7 +196,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>Quad Core i7 2.6GHz</String>
+          <String>Dual Core i7 2.9GHz</String>
           <Attributes>
             <Font Family="Apple Symbols" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -222,7 +222,7 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>16GB RAM, 480GB Solid State Drive</String>
+          <String>8GB RAM, 750GB Hard Disk Drive</String>
           <Attributes>
             <Font Family="Apple Symbols" Size="13" Bold="False" Italic="False" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
@@ -248,8 +248,8 @@
       <Verticalized>False</Verticalized>
       <StyledText>
         <Element>
-          <String>85W Mag Safe 2
-Base Specs QCi7/2.3/16GB/512GB_SSD+No</String>
+          <String>60W Mag Safe 1
+Base Specs DCi7/2.9/8GB/750GB_HDD</String>
           <Attributes>
             <Font Family="Helvetica" Size="7" Bold="False" Italic="True" Underline="False" Strikeout="False"/>
             <ForeColor Alpha="255" Red="0" Green="0" Blue="0"/>
