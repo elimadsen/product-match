@@ -2,6 +2,6 @@ Resources/Labels/generated.label
 Resources/Labels/generatedQR.EPS
 Resources/Labels/generated-iOS.label
 Resources/Labels/generateQR-iOS.EPS
-Resources/Labels/iOS_plistFiles/
+Resources/Labels/iOS_jsonFiles/
 config
-../../.DS_Store
+.DS_Store*
