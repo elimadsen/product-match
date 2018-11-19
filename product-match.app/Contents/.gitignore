@@ -3,5 +3,6 @@ Resources/Labels/generatedQR.EPS
 Resources/Labels/generated-iOS.label
 Resources/Labels/generateQR-iOS.EPS
 Resources/Labels/cfgutilFiles/
+Resources/Labels/iOS/
 config
 .DS_Store*
