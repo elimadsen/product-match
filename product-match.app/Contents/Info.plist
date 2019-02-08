@@ -70,7 +70,7 @@
 		<key>bundlePositionOfDivider</key>
 		<real>0.0</real>
 		<key>dividerCollapsed</key>
-		<true/>
+		<false/>
 		<key>eventLogLevel</key>
 		<integer>0</integer>
 		<key>name</key>
