@@ -5,4 +5,5 @@ Resources/Labels/generateQR-iOS.EPS
 Resources/Labels/cfgutilFiles/
 Resources/Labels/iOS/
 config
+configQR
 .DS_Store*
